@@ -1,6 +1,4 @@
-
-
-###Cinepal
+### Cinepal
 
 Welcome to Cinepal, an immersive movie recommendation platform where users can explore, discover, and share their favorite films. Crafted with care, Cinepal offers a seamless user experience with a range of features:
 
