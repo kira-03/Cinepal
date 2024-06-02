@@ -1,6 +1,6 @@
 🎬 Cinepal: Redefining Movie Discovery 🎥
 
-Welcome to Cinepal —> an immersive movie recommendation platform where users can explore, discover, and share their favorite films. Crafted with C, Cinepal offers a seamless user experience with a range of features:
+Welcome to Cinepal ➔ an immersive movie recommendation platform where users can explore, discover, and share their favorite films. Crafted with C, Cinepal offers a seamless user experience with a range of features:
 
 🔍 Browse: Dive into a vast library of movies, organized by genre, release date, and more.
 
